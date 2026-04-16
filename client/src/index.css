@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Work+Sans:wght@400;500;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --warm-bg: #fffaf0;
+  --ink: #1f2937;
+}
+
+body {
+  @apply min-h-screen bg-gradient-to-br from-orange-50 via-amber-50 to-rose-100 text-slate-800 font-body;
+}

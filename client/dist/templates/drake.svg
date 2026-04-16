@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-label="Drake meme placeholder">
+  <rect width="1200" height="1200" fill="#fde68a"/>
+  <rect x="0" y="0" width="1200" height="580" fill="#fca5a5"/>
+  <rect x="0" y="620" width="1200" height="580" fill="#86efac"/>
+  <circle cx="210" cy="290" r="170" fill="#1f2937"/>
+  <circle cx="210" cy="910" r="170" fill="#1f2937"/>
+  <text x="450" y="290" font-size="90" font-family="Arial" fill="#111827" font-weight="700">NOPE</text>
+  <text x="450" y="910" font-size="90" font-family="Arial" fill="#111827" font-weight="700">YES</text>
+</svg>

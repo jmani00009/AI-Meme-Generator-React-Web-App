@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Distracted boyfriend meme placeholder">
+  <rect width="1200" height="900" fill="#bfdbfe"/>
+  <rect x="80" y="140" width="280" height="700" rx="20" fill="#fca5a5"/>
+  <rect x="460" y="140" width="280" height="700" rx="20" fill="#fdba74"/>
+  <rect x="840" y="140" width="280" height="700" rx="20" fill="#86efac"/>
+  <text x="140" y="810" font-size="48" font-family="Arial" fill="#111827" font-weight="700">GIRLFRIEND</text>
+  <text x="525" y="810" font-size="48" font-family="Arial" fill="#111827" font-weight="700">ME</text>
+  <text x="900" y="810" font-size="48" font-family="Arial" fill="#111827" font-weight="700">DISTRACTION</text>
+</svg>

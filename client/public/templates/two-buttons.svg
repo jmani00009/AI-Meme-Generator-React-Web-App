@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Two buttons meme placeholder">
+  <rect width="1200" height="900" fill="#c7d2fe"/>
+  <rect x="160" y="180" width="420" height="220" rx="20" fill="#f87171"/>
+  <rect x="160" y="500" width="420" height="220" rx="20" fill="#4ade80"/>
+  <circle cx="860" cy="450" r="220" fill="#1f2937"/>
+  <text x="230" y="310" font-size="52" font-family="Arial" fill="#111827" font-weight="700">OPTION A</text>
+  <text x="230" y="630" font-size="52" font-family="Arial" fill="#111827" font-weight="700">OPTION B</text>
+</svg>

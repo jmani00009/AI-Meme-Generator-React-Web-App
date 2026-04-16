@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Woman yelling at cat meme placeholder">
+  <rect width="1200" height="900" fill="#fecaca"/>
+  <rect x="60" y="100" width="500" height="700" rx="18" fill="#fb7185"/>
+  <rect x="640" y="100" width="500" height="700" rx="18" fill="#93c5fd"/>
+  <circle cx="310" cy="410" r="140" fill="#111827"/>
+  <circle cx="890" cy="410" r="140" fill="#111827"/>
+  <text x="170" y="760" font-size="52" font-family="Arial" fill="#111827" font-weight="700">ARGUING</text>
+  <text x="770" y="760" font-size="52" font-family="Arial" fill="#111827" font-weight="700">CONFUSED CAT</text>
+</svg>
